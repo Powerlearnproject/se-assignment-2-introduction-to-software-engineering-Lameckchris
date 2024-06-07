@@ -7,7 +7,7 @@
 
 **4. Testing**  <br> This is where the software is tested for bugs and if it is running and meeting the customer requirements.  
 
-**5. Deployment**  <br> This is where the engineering team deplyos the software to the customers. They can deploy it all at once  or deploy it in sections depending on the method that is convinient to the customer.  
+**5. Deployment**  <br> This is where the engineering team deplyos the software to the customers, They can deploy it all at once  or deploy it in sections depending on the method that is convinient to the customer.  
 
 **6. Maintenace**  <br> This is where the engineering team monitor the system perfomance,security and user experience to identify new ways to improve the software and also fix bugs that may arise in the future.   
 
