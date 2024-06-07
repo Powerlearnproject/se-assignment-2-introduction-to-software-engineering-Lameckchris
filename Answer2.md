@@ -1,4 +1,4 @@
-## Question 2
+# Question 2
 **Software Engineering is the process of developing, testing and deploying computer applications by applying engineering principles and best practices.**  
 
 Some of the key differences between software engineering and traditional programming are:  <br>  
