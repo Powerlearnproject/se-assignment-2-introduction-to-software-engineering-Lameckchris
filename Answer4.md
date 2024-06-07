@@ -30,7 +30,7 @@
 ## Scenarios for Each Model
 **Agile**
   - Projects with changing requirements or uncertain outcomes. <br>
-  - Complex or evolving requirements. <br>
+  - Complex or evolving requirements.
   - Projects that require rapid and flexible response to change.<br>
   - Projects with high levels of stakeholder involvement.
 
