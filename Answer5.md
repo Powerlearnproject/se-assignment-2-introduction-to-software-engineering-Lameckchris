@@ -14,4 +14,4 @@
   - Improves project planning by enabling accurate estimates, schedules, and risk identification
   - Enhances stakeholder satisfaction by aligning the software with their needs
   - Minimizes rework and costs by identifying issues early
-  - Increases product quality by capturing complete, consistent requirements.
+  - Increases product quality by capturing complete, consistent requirements
