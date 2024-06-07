@@ -1,4 +1,4 @@
-# Questoin 10
+# Question 10
 **Software maintenance refers to the activities required to provide cost-effective support to a software system after it has been deployed. It involves making modifications to keep the software up-to-date and fix any bugs or faults that arise during operation.**  
 ## Primary types of software maintenance:
 **1. Corrective Software Maintenance**
